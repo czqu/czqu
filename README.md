@@ -7,7 +7,7 @@ I'm currently working on some cool projects using Java and Spring Boot framework
 - I'm always eager to learn new things and improve my skills in backend development 💻
 - I'm open to collaboration and feedback on my projects 💬
 ## 📫 How to reach me
-You can visit my personal website [https://czqu.net/](https://czqu.net/) or send me an email at [mail@czqu.net](mailto:me@czqu.net).
+You can visit my personal website [https://czqu.net/](https://czqu.net/) or send me an email at [me@czqu.net](mailto:me@czqu.net).
 ## ⚡ Fun fact
 I can play guitar and piano 🎸🎹.
 ## 🔥 My skills
